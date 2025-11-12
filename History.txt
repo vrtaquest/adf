@@ -1,1 +1,4 @@
+2025-10-26 Rahul <rahul>
+* Making PrettyPrint more like a typical Python class
+
 It was started today.
